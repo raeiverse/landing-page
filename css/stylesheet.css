@@ -30,6 +30,8 @@
   margin: auto;
   display: flex;
   flex-wrap: wrap;
+  padding-bottom: 30px;
+  border-bottom: 3px solid #b6895b;
 }
 .goods-item {
   margin: auto;
